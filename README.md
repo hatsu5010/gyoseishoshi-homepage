@@ -1,30 +1,3 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>初瀬行政書士事務所</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; color: #333; }
-    header { background-color: #f5f5f5; padding: 20px; }
-    .container { width: 90%; max-width: 1200px; margin: 0 auto; }
-    nav ul { list-style: none; padding: 0; margin: 0; display: flex; }
-    nav li { margin-right: 15px; }
-    nav a { text-decoration: none; color: #333; font-weight: bold; }
-    .hero { background-color: #e0e0e0; padding: 60px 0; text-align: center; }
-    .hero h1 { font-size: 2.5rem; margin-bottom: 10px; }
-    .hero p { font-size: 1.2rem; }
-    section { padding: 40px 0; }
-    section h2 { font-size: 1.8rem; margin-bottom: 20px; }
-    .services, .pricing { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; }
-    .service-item, .price-item { background-color: #fafafa; border: 1px solid #ddd; padding: 20px; border-radius: 8px; }
-    .profile { display: flex; align-items: center; }
-    .profile img { border-radius: 50%; width: 120px; height: 120px; object-fit: cover; margin-right: 20px; }
-    form { display: grid; gap: 15px; }
-    form input, form textarea { width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 4px; }
-    form button { padding: 12px; border: none; background-color: #333; color: #fff; border-radius: 4px; cursor: pointer; }
-    footer { background-color: #f5f5f5; padding: 20px; text-align: center; font-size: 0.9rem; }
-  </style>
 </head>
 <body>
   <header>
